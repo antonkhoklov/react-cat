@@ -1,0 +1,8 @@
+.root {
+  max-width: 20rem;
+  margin: 1rem;
+  padding: 0 1rem;
+  background-color: rgba(245, 95, 115, .8);
+  border: solid .1rem #d13247;
+  border-radius: 2rem;
+}
